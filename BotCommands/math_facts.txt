@@ -1,0 +1,106 @@
+﻿Zero is the only number that cannot be represented by Roman numerals.
+A palindrome is a number that reads the same backward and forward, like 121.
+A "googol" is 1 followed by 100 zeros.
+There is no largest prime number—it goes on forever.
+The number π (pi) is irrational—it never ends and never repeats.
+The Fibonacci sequence appears in nature, such as in flower petals and pinecones.
+A square number is the product of a number multiplied by itself.
+Negative numbers were first used in ancient China.
+The number 9 has a special property—any number multiplied by 9, the digits add up to 9.
+A perfect number is one where the sum of its factors equals the number itself (e.g., 28).
+The word "hundred" comes from the old Norse word “hundrath,” meaning 120.
+In a group of 23 people, there’s a 50% chance two share the same birthday.
+The sum of all angles in a triangle is always 180 degrees.
+A prime number has exactly two distinct positive divisors: 1 and itself.
+The golden ratio (≈1.618) is found in art, architecture, and nature.
+Multiplying any number by 1 gives the same number.
+The Pythagorean theorem is a² + b² = c² for right triangles.
+There are infinitely many prime numbers.
+The smallest prime number is 2.
+The largest known prime has millions of digits!
+Pi (π) has been calculated to over 62 trillion digits.
+A circle has 360 degrees.
+Binary numbers use only 0 and 1.
+The number e (≈2.718) is the base of natural logarithms.
+The number 1 is neither prime nor composite.
+Mathematics is the only language that is the same across all cultures.
+In base-10, there are 10 digits: 0 through 9.
+A leap year occurs every 4 years to align the calendar year with the solar year.
+The probability of flipping a fair coin and getting heads is 50%.
+Roman numerals have no symbol for zero.
+A googolplex is 1 followed by a googol of zeros.
+The number 153 is equal to the sum of the cubes of its digits (1³ + 5³ + 3³).
+A dodecagon has 12 sides.
+The Möbius strip has only one surface and one edge.
+A light-year is a measure of distance, not time.
+The number 11 has a special multiplication trick (e.g., 11×13 = 143).
+The number 1729 is the smallest "taxicab" number.
+Euler’s identity: e^(iπ) + 1 = 0 is considered the most beautiful equation.
+A rhombus is a quadrilateral with all sides equal.
+The number 0.999... is equal to 1.
+Multiplying two negative numbers results in a positive.
+The number 6 is the smallest perfect number.
+The sum of the interior angles of a hexagon is 720 degrees.
+The number 3 is the only number equal to the sum of all its digits cubed.
+The number 4 is the only number with the same number of letters as its value.
+Infinity is not a number but a concept.
+The square root of 2 is irrational.
+A heptagon has 7 sides.
+A factorial is the product of all positive integers up to a number.
+You can’t divide by zero.
+Pi Day is celebrated on March 14 (3/14).
+A triangle with all sides equal is called an equilateral triangle.
+The word “algebra” comes from Arabic.
+A circle’s area is πr².
+A sphere’s volume is (4/3)πr³.
+The number 2 is the only even prime number.
+The number 5 is the sum of the first two primes.
+There are exactly five regular polyhedra (Platonic solids).
+The number 8 looks like an infinity symbol when rotated.
+The word “geometry” means "earth measurement."
+The sum of any two odd numbers is even.
+A trapezoid has one pair of parallel sides.
+The most popular favorite number in polls is 7.
+A cube has 6 faces, 12 edges, and 8 vertices.
+A decagon has 10 sides.
+Pi is used in many engineering formulas.
+The number 100 is a square number (10²).
+The Fibonacci sequence starts with 0 and 1.
+The number 13 is considered unlucky in many cultures.
+The sum of angles in a quadrilateral is 360 degrees.
+A right triangle has one 90-degree angle.
+The smallest square number greater than 1 is 4.
+The word “calculus” means “small stone” in Latin.
+Math is the foundation of computer science.
+The area of a triangle is ½ × base × height.
+Negative numbers were accepted in Europe only in the 15th century.
+The sum of the first n natural numbers is (n(n+1))/2.
+There’s a name for a 1000-sided shape: chiliagon.
+An octahedron has 8 faces.
+The word “algorithm” comes from Persian mathematician Al-Khwarizmi.
+A parallelogram has opposite sides that are equal and parallel.
+Every even number greater than 2 can be expressed as the sum of two primes (Goldbach's Conjecture).
+The number 0 is an integer.
+A hexagon is the most efficient shape for tiling a surface.
+The number 10 is the base of our number system.
+The number 12 is a highly composite number.
+Infinity plus one is still infinity.
+The term “percent” means “per hundred.”
+The equation y = mx + b is the slope-intercept form of a line.
+The square root of 4 is both 2 and -2.
+The angles in a circle add up to 360 degrees.
+The number 7 is a prime and a lucky number.
+Every odd number has an odd number of factors.
+The only number whose letters are in alphabetical order is 40 (forty).
+Mathematics is essential in space exploration.
+The digit 0 was developed independently in India and Mesoamerica.
+The value of pi was known to ancient Egyptians.
+Math helps predict weather patterns.
+The number 60 is divisible by 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, and 60.
+Euler’s number e is used in finance and biology.
+The angles of a triangle determine its type.
+Every multiple of 9 has digits that sum to 9.
+Math is used to create secure passwords and encryption.
+The square root of 1 is 1.
+You can write any number using just prime numbers multiplied together.
+Math is the language of the universe.
